@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-sidebar-modal-project/static/css/main.e0f79945.chunk.css",
+    "main.js": "/react-sidebar-modal-project/static/js/main.26a4294b.chunk.js",
+    "main.js.map": "/react-sidebar-modal-project/static/js/main.26a4294b.chunk.js.map",
+    "runtime-main.js": "/react-sidebar-modal-project/static/js/runtime-main.78e900a7.js",
+    "runtime-main.js.map": "/react-sidebar-modal-project/static/js/runtime-main.78e900a7.js.map",
+    "static/js/2.2fcbc706.chunk.js": "/react-sidebar-modal-project/static/js/2.2fcbc706.chunk.js",
+    "static/js/2.2fcbc706.chunk.js.map": "/react-sidebar-modal-project/static/js/2.2fcbc706.chunk.js.map",
+    "index.html": "/react-sidebar-modal-project/index.html",
+    "precache-manifest.891f2ecfbd1fc69a0332a2d990f9bdc8.js": "/react-sidebar-modal-project/precache-manifest.891f2ecfbd1fc69a0332a2d990f9bdc8.js",
+    "service-worker.js": "/react-sidebar-modal-project/service-worker.js",
+    "static/css/main.e0f79945.chunk.css.map": "/react-sidebar-modal-project/static/css/main.e0f79945.chunk.css.map",
+    "static/js/2.2fcbc706.chunk.js.LICENSE.txt": "/react-sidebar-modal-project/static/js/2.2fcbc706.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-sidebar-modal-project/static/media/logo.2bb7da65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78e900a7.js",
+    "static/js/2.2fcbc706.chunk.js",
+    "static/css/main.e0f79945.chunk.css",
+    "static/js/main.26a4294b.chunk.js"
+  ]
+}
